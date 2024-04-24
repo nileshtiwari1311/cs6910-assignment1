@@ -15,4 +15,4 @@ The file named ```train.py``` is a ```python``` script that takes the hyperparam
 to obtain test accuracy on the test data. 
 ## Results<br/>
 The best test accuracy on ```Fashion MNIST``` dataset achieved is **87%** while on ```MNIST``` dataset is **97%**. The explanation and results of subproblems 
-can be accessed [here](https://wandb.ai/cs22m059/cs6910_dl_assgn_1_q_1/reports/CS6910-Assignment-1--VmlldzozODI2MjUz?accessToken=2h1is0xkc4ulro78mya3drlqh59qcig8nazwyi6fi6gdv1luky81ebgn81lwvybe).
+can be accessed [here](https://wandb.ai/cs22m059/cs6910_dl_assgn_1_q_1/reports/CS6910-Assignment-1--VmlldzozODI2MjUz).
