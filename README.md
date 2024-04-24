@@ -1,5 +1,5 @@
 # Implementation of Feedforward Neural Network with Backpropagation
-    Course Assignment of CS6910 Deep Learning IIT Madras
+    Course Assignment of CS6910 Deep Learning at IIT Madras
 ## Abstract<br/>
 The feedforward neural network is built from scratch using only ```numpy``` library for all matrix/vector operations and without using any automatic differentiation packages.
 ## Dataset<br/>
